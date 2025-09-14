@@ -38,9 +38,8 @@ Remote full-time roles where I can build real web apps, collaborate with a team,
 ---
 
 ## GitHub Stats
-(If you want, add a GitHub stats widget here — replace `your-username`)
 
-![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkdaraniya&show_icons=true&count_private=true)
 
 ---
 
