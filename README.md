@@ -1,54 +1,89 @@
 # Milind Daraniya
 
-> Full-stack Web Developer — Laravel · PHP · JavaScript · HTML · CSS  
-> Open to remote work
+**PHP / Laravel Developer | SaaS & ERP-Style Web Applications**  
+📍 India | 🌍 Open to Remote & Onsite Opportunities
 
-[🌐 milinddaraniya.com](https://milinddaraniya.com) • [LinkedIn](https://www.linkedin.com/in/milind-daraniya) • ✉️ mkdaraniya@gmail.com
-
----
-
-## About Me
-I’m Milind — a full-stack web developer specializing in **Laravel** and modern PHP. I build clean, maintainable web applications with a focus on practical features (admin dashboards, e-commerce basics, content management) and simple, usable UI using HTML/CSS/Bootstrap.
-
-I prefer remote roles and enjoy building projects that help other developers learn and that can be easily extended.
+🌐 https://milinddaraniya.com •  
+💼 https://www.linkedin.com/in/milind-daraniya •  
+✉️ mkdaraniya@gmail.com
 
 ---
 
-## Tech Stack & Skills
+## 👋 About Me
 
-![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+I’m Milind, a **PHP & Laravel developer** focused on building **real-world, database-driven web applications**.  
+I specialize in **backend logic, clean architecture, and practical business systems** rather than just CRUD demos.
 
-- Laravel (Eloquent, Blade, middleware, jobs, queues)
-- RESTful design and DB design (MySQL)
-- Frontend: HTML, CSS, Bootstrap, minimal JavaScript
-- Payment integrations (Razorpay) — configuration & secure handling
-- CI/CD basics with GitHub Actions; deployments to shared hosts or VPS
+I’ve worked on projects such as **ERP modules, task management systems, admin dashboards, and SaaS-style applications**, with strong attention to maintainability and clarity.
+
+I’m currently **open to full-time roles (Remote or Onsite)** and looking to join a team where I can contribute to real products and grow further as a backend engineer.
 
 ---
 
-## What I’m looking for
-Remote full-time roles where I can build real web apps, collaborate with a team, and improve product features. I prefer companies that value clean code, testing, and practical design.
+## 🛠 Tech Stack
+
+**Backend**
+- PHP, Laravel
+- Eloquent ORM, Blade, Middleware
+- RESTful APIs
+- MySQL (schema design, indexing, relations)
+
+**Frontend**
+- HTML5, CSS3
+- Bootstrap
+- Minimal JavaScript (practical UI behavior)
+
+**Other**
+- Git & GitHub
+- Basic CI/CD with GitHub Actions
+- Payment gateway integration (Razorpay)
+- Deployment on Shared Hosting & VPS
 
 ---
 
-## GitHub Stats
+## 💡 What I Build
+
+- SaaS & multi-module web applications
+- ERP-style systems (items, stock, tasks, workflows)
+- Admin dashboards & internal tools
+- Role-based authentication & authorization
+- Clean database-driven systems with proper migrations
+
+I focus on **clarity, stability, and business logic**, not just flashy UI.
+
+---
+
+## 📌 What I’m Looking For
+
+- Full-time **PHP / Laravel Developer** role
+- Remote or Onsite (India or Remote-friendly teams)
+- Teams that value:
+  - Clean code
+  - Practical architecture
+  - Long-term maintainability
+
+---
+
+## 📊 GitHub Activity
 
 ![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkdaraniya&show_icons=true&count_private=true)
 
+> I actively use GitHub to build and refine real projects, not just tutorials.
+
 ---
 
-## Contact
+## 📫 Contact
+
 - Website: https://milinddaraniya.com  
 - LinkedIn: https://www.linkedin.com/in/milind-daraniya  
-- Email: mkdaraniya@gmail.com
+- Email: mkdaraniya@gmail.com  
 
 ---
 
-## How to work with me
-If you like my projects and want to talk about remote roles or collaborations, email me or open an issue in any repo to start a conversation.
+## 🤝 How to Work With Me
+
+If you’re hiring or would like to discuss a role:
+- Email me directly, or
+- Open an issue on any repository to start a conversation
+
+I’m always open to meaningful work and collaboration.
