@@ -20,7 +20,7 @@ I’m open to full-time remote or onsite opportunities and enjoy collaborating v
 ## 🧰 Tech & Integrations I Work With
 
 **Backend & Databases**
-- PHP, Laravel (Eloquent, Jobs, Queues, Middleware)
+- PHP, Laravel, ReactJS, NextJS (Eloquent, Jobs, Queues, Middleware)
 - MySQL, MongoDB
 - Redis (caching, queues)
 
