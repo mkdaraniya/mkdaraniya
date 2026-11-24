@@ -1,7 +1,7 @@
 # Milind Daraniya
 
 **PHP / Laravel & Full-stack Developer | SaaS, ERP & Cross-platform Apps**  
-📍 India | 🌍 Open to Remote & Onsite Opportunities
+📍 India | 🌍 Open to Remote and Onsite Opportunities
 
 🌐 https://milinddaraniya.com •  
 💼 https://www.linkedin.com/in/milind-daraniya •  
@@ -11,90 +11,103 @@
 
 ## 👋 About Me
 
-I’m Milind — a practical, product-minded full-stack developer who ships reliable web and desktop applications. I specialize in **Laravel & modern PHP** for backend systems and have built multi-tenant SaaS modules, ERP-style workflows, APIs. I prefer roles where I can contribute to real products, solve business problems, and work in distributed teams.
+I'm Milind. I build web and desktop applications with Laravel and modern PHP. I like solving real business problems and turning them into simple, reliable software.
 
-I’m open to full-time remote or onsite opportunities and enjoy collaborating via Git/GitHub, Slack, Microsoft Teams, and CI/CD pipelines.
+Most of my work is on backend systems, but I also handle frontend screens, APIs, and deployment when a project needs it. I have worked on multi-tenant SaaS modules, ERP-style workflows, admin panels, and cross-platform desktop apps.
+
+I use AI tools in my daily work for coding, debugging, tests, documentation, planning, and code review. I treat AI as a work partner: I prompt it, check the output, test the changes, and take responsibility for what ships.
+
+I like teams where I can understand the domain, ask clear questions, and ship steady improvements. I'm comfortable working with GitHub, Slack, Microsoft Teams, and CI/CD pipelines.
 
 ---
 
 ## 🧰 Tech & Integrations I Work With
 
 **Backend & Databases**
-- PHP, Laravel, ReactJS, NextJS (Eloquent, Jobs, Queues, Middleware)
+- PHP and Laravel: Eloquent, Jobs, Queues, Middleware, Blade
 - MySQL, MongoDB
-- Redis (caching, queues)
+- Redis for caching and queues
 
 **Frontend**
-- Blade, HTML5, CSS3, Bootstrap
-- React (for SPA & Electron desktop apps)
-- Minimal, pragmatic JavaScript for production UIs
+- HTML5, CSS3, Bootstrap
+- React for SPAs and Electron desktop apps
+- Next.js
+- Simple, practical JavaScript for production UIs
 
 **Desktop / Cross-platform**
-- Electron + React (offline, filesystem access, distributed installers)
+- Electron + React for offline apps with local filesystem access and installers
 - Built an offline cross-platform Booking Desktop App as a demo/product
 
 **APIs, Integrations & DevOps**
-- RESTful APIs, Webhooks, OAuth integrations
-- Payment gateways (Razorpay, Stripe, PayPal — integration & secure handling)
-- Third-party integrations: Slack, Google Drive, external CRMs/APIs
-- Git, GitHub, GitHub Actions (CI/CD), deployments to VPS / shared hosting / cloud
+- RESTful APIs, webhooks, and OAuth integrations
+- Payment gateways: Razorpay, Stripe, PayPal, with secure handling
+- Third-party integrations: Slack, Google Drive, external CRMs and APIs
+- Git, GitHub, GitHub Actions, and deployments to VPS, shared hosting, or cloud
 
 **Architecture & Product**
-- Multi-tenant & SaaS architectures (tenant scoping, RBAC)
-- ERP-style flows (items, stock movements, work orders, invoices)
-- Secure auth & role-based authorization, data migrations & seeders
+- Multi-tenant and SaaS architecture with tenant scoping and RBAC
+- ERP-style flows: items, stock movements, work orders, invoices
+- Secure auth, role-based authorization, migrations, and seeders
 
 ---
 
 ## 🔎 What I Build / Strengths
 
-- Multi-tenant SaaS platforms (tenant isolation, role access, billing)
-- ERP modules: inventory, stock movements, purchase & production workflows
-- Admin dashboards & internal tools with sensible UX (Bootstrap / AdminLTE)
-- Cross-platform desktop apps (Electron) for offline-first workflows (booking, field tools)
-- API-first systems with solid database design for scale and maintainability
+- Multi-tenant SaaS platforms with tenant isolation, role access, and billing
+- ERP modules: inventory, stock movements, purchase and production workflows
+- Admin dashboards and internal tools with clean, practical UX (Bootstrap / AdminLTE)
+- Cross-platform desktop apps for offline-first work (booking, field tools)
+- API-first systems with sensible database design for scale and maintenance
+- AI-assisted development for faster build, debugging, tests, docs, and reviews, with manual checks before release
 
-I focus on delivering **business value**, reliable logic, and code that other engineers can maintain.
+I focus on business value, reliable logic, and code that other developers can maintain.
 
 ---
 
-## ⭐ Notable Projects (examples to showcase)
+## ⭐ Notable Projects
 
-- **ERP / SaaS Core (Flagship)** — A modular Laravel application demonstrating multi-tenant design, stock & work-order workflows, role-based access, and API endpoints for integrations. *(WIP — intended as my main showcase repo.)*
+- **ERP / SaaS Core (Flagship)** — A modular Laravel application with multi-tenant design, stock and work-order workflows, role-based access, and API endpoints for integrations. *(WIP — planned as my main showcase repo.)*
 
-- **Booking Desktop App (Electron + React)** — Cross-platform offline booking software with local DB sync, file export, and installer builds for Windows/Linux/macOS. Demonstrates desktop packaging, filesystem access, and React-based UI.
+- **Booking Desktop App (Electron + React)** — Offline cross-platform booking software with local DB sync, file export, and installers for Windows, Linux, and macOS.
 
-- **Task Manager** — Web task system with status flows, assignment, due dates, and authorization policies — used to show workflow and RBAC.
+- **Task Manager** — Web task system with status flows, assignment, due dates, and authorization policies. Good example of workflow and RBAC.
 
 (Links to repos are pinned on my GitHub profile.)
 
 ---
 
-## 📌 What I’m Looking For
+## 📌 What I'm Looking For
 
-- Full-time **PHP / Laravel Developer** or **Full-Stack** roles  
-- Remote-first or hybrid teams open to distributed collaboration  
-- Companies that value clean code, testing, and long-term product thinking
+- Full-time **PHP / Laravel Developer** or **Full-Stack** roles
+- Remote-first or hybrid teams that are open to distributed work
+- Teams that value clean code, testing, and long-term product thinking
 
 ---
 
 ## 📊 GitHub Activity
 
-![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkdaraniya&show_icons=true&count_private=true)
+The cards below use public GitHub data only. Private contributions are not counted here.
+
+[![Milind's GitHub stats](https://github-stats-extended.vercel.app/api?username=mkdaraniya&show_icons=true&include_all_commits=true&hide=contribs,issues&hide_rank=true&theme=tokyonight)](https://github.com/mkdaraniya)
+
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mkdaraniya&layout=compact&hide=HTML,CSS&theme=tokyonight)](https://github.com/mkdaraniya)
+
+[![GitHub streak](https://streak-stats.demolab.com/?user=mkdaraniya&theme=tokyonight)](https://github.com/mkdaraniya)
+
+[![Recent GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=mkdaraniya&theme=tokyonight)](https://github.com/mkdaraniya)
 
 ---
 
 ## 📫 Contact
 
-- Website: https://milinddaraniya.com  
-- LinkedIn: https://www.linkedin.com/in/milind-daraniya  
+- Website: https://milinddaraniya.com
+- LinkedIn: https://www.linkedin.com/in/milind-daraniya
 - Email: mkdaraniya@gmail.com
 
 ---
 
 ## 🤝 How to Work With Me
 
-- Interested in hiring me? Email or message on LinkedIn and I’ll share project demos and architecture notes.  
-- Want to collaborate? Open an issue on the related repo or fork it and send a PR.  
-- I’m comfortable communicating over Slack, Microsoft Teams.
-  
+- Interested in hiring me? Email me or message me on LinkedIn. I can share project demos and architecture notes.
+- Want to collaborate? Open an issue on the related repo or fork it and send a PR.
+- I'm comfortable communicating over Slack and Microsoft Teams.
